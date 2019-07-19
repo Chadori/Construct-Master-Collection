@@ -7,33 +7,33 @@ assignees: ''
 
 ---
 
-**Request Type**
+## Request Type
 Either a "Feature Request" or "Express Order".
 
-**Information**
+## Information
 Express the description of the request.
 
-**Feature Demo**
+## Feature Demo
 Express the features you want to happen.
 
-**Screenshots**
+## Screenshots
 If applicable, add screenshots to help explain your problem.
 
-**Construct Editor**
+## Construct Editor
  - Construct 2
  - Construct 3
 
-**Construct Runtime:**
+## Construct Runtime
  - Construct 2
  - Construct 3
 
-**Additional Info**
+## Additional Info
 Add any other context about the problem here.
 
----
+## Deadline
+This is only for **Express Orders**. Kindly remove from _Feature Requests_.
+### Start Date
+*Start Date*
 
-**Start Date (Express Only)**
-*Date (Express Only)*
-
-**Deadline Date (Express Only)**
-*Date (Express Only)*
+### Deadline Date
+*Finished Date*
