@@ -8,7 +8,7 @@ assignees: ''
 ---
 
 ## Request Type
-Either a "Feature Request" or "Express Order".
+Either a **Feature Request** or **Express Order**.
 
 ## Information
 Express the description of the request.
