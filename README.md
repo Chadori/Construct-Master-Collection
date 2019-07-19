@@ -25,7 +25,7 @@ Invite Link : https://discord.gg/eS3HK88
 ## Status
 
 [Reinstated] :: This bug-tracker was reinstated to GitHub after frequent increases in users, features and issues.
-(July 19, 2018)
+(July 19, 2019)
 
 [Migration] :: This bug-tracker was inefficient since most bug reporters are on Discord with no GitHub account.
 https://discord.gg/eS3HK88
