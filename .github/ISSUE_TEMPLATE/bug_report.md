@@ -14,7 +14,7 @@ This is a **Bug Report**.
 A clear and concise description of what the bug is.
 
 ## Reproducible .c3p or .capx
-A clear and concise description of what the bug is.
+_Insert the project file here._
 
 ## Steps to Reproduce
 Steps to reproduce the behavior:
