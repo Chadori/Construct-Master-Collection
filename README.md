@@ -1,5 +1,5 @@
 # Construct Master Collection
-This is the dedicated repository for the Construct :: Master Collection developed by ChadoriXD「茶どり」. 
+This is the dedicated repository for the Construct :: Master Collection developed by ChadoriXD. 
 You can post here the feature requests and bug issues you want to officially file. 
 
 ## Tip
