@@ -2,8 +2,11 @@
 This is the dedicated repository for the Construct Master Collection, developed by ChadoriXD. 
 You can post here the feature requests and bug issues you want to officially file. 
 
+## Important (05-02-2024)
+**Bug reports are now recommended to be directly posted in the [Discord Community](https://discord.com/invite/eS3HK88) server.**
+
 ## Tip
-You can verify your issues, feature requests in realtime through the Discord Server.
+You can verify your issues, feature requests in realtime through the [Discord Community](https://discord.com/invite/eS3HK88) server.
 This makes work and filtering faster.
 
 ## Sending a Bug Report
